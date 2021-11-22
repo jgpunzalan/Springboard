@@ -1,0 +1,18 @@
+{
+    "customer_id": 1065,
+    "name": "another person",
+    "address01": "987 main",
+    "address02": "line2",
+    "city": "city",
+    "state": "state",
+    "zip": "09876",
+    "email": "email",
+    "phone": "987-345-2345",
+    "cust_since": "2021-11-17",
+    "products": {
+        "1066": "Checking",
+        "1067": "savings",
+        "1068": "Savings",
+        "1069": "Checking"
+    }
+}

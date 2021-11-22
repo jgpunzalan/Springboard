@@ -1,0 +1,15 @@
+{
+    "customer_id": 1060,
+    "name": "Jeff Punz",
+    "address01": "123 Main St",
+    "address02": "",
+    "city": "New York",
+    "state": "NY",
+    "zip": "12345",
+    "email": "email@email.email",
+    "phone": "987-987-9876",
+    "cust_since": "2021-11-09",
+    "products": {
+        "1061": "Savings"
+    }
+}

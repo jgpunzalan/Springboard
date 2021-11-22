@@ -1,0 +1,16 @@
+{
+    "customer_id": 1062,
+    "name": "New Cust",
+    "address01": "123 main",
+    "address02": "",
+    "city": "city",
+    "state": "state",
+    "zip": "12345",
+    "email": "email",
+    "phone": "987-098-0987",
+    "cust_since": "2021-11-17",
+    "products": {
+        "1063": "Saving",
+        "1064": "Checking"
+    }
+}
