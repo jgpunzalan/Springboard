@@ -10,5 +10,15 @@ SET @v6 = 'MGT';
 SET @v7 = 'EE';			  
 SET @v8 = 'MAT';
 
+-- ORIGINAL:
 -- 2. List the names of students with id in the range of v2 (id) to v3 (inclusive).
 SELECT name FROM Student WHERE id BETWEEN @v2 AND @v3;
+
+
+-- FINAL:
+SELECT name FROM Student WHERE id BETWEEN @v2 AND @v3;
+
+/* EXPLANATION:
+This is a simple query with a simple explain plan.  
+The possibile creation of an index could improve the performance.
+*/
