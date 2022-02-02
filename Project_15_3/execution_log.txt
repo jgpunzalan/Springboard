@@ -1,0 +1,9 @@
+PS C:\Users\jeffp\Development\Springboard\Project_15_3> cd c:/Users/jeffp/Development/Springboard/Project_15_3
+PS C:\Users\jeffp\Development\Springboard\Project_15_3> cd c:/Users/jeffp/Development/Springboard/Project_15_3
+PS C:\Users\jeffp\Development\Springboard\Project_15_3> & C:/Python39/python.exe c:/Users/jeffp/Development/Springboard/Project_15_3/main.py
+Top 3 most popular events
+  - Washington Spirits vs Sky Blue FC
+  - Christmas Spectacular
+  - The North American International Auto Show
+PS C:\Users\jeffp\Development\Springboard\Project_15_3> 
+
