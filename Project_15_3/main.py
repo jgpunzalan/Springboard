@@ -23,9 +23,7 @@ def load_third_party(connection, file_path_csv):
     insert_sql = "INSERT INTO springboard.ticket_sales VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s); "
     for ind, row in df.iterrows():
         cursor.execute(insert_sql,tuple(row))
-
-
-
+        
     connection.commit()
     cursor.close()
     return
@@ -47,7 +45,6 @@ def display_popular_events(records):
     print("Top 3 most popular events")
     for rec in records:
         print(f"  - {rec[1]}")
-
 
 def main():
     conn = get_db_connection()
